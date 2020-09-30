@@ -1,2 +1,2 @@
-# The-best-algorithm-of-bouncing-and-detecting-moting-of-touching-by-a-10-year-old
-amazing
+# p5.play-boilerplate
+Boiler plate for p5.play
